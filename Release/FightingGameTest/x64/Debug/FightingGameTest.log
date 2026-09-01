@@ -1,0 +1,201 @@
+﻿  モジュール依存関係のソースをスキャンしています...
+  GameDefine.h
+  GameDefine.h
+  Animation.cpp
+  Animator.cpp
+  Bg.cpp
+  BulletManager.cpp
+  ColCheck.cpp
+  CommandManager.cpp
+  ControllerUI.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\ControllerUI.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\ControllerUI.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'ControllerUI.cpp' をコンパイルしています)
+  
+  EffectManager.cpp
+  GameManager.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'GameManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SoundManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'GameManager.cpp' をコンパイルしています)
+  
+  HadouBullet.cpp
+  HPUIManager.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'HPUIManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.cpp(91,19): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  InputBuffer.cpp
+  main.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TimeUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectChara.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\ControllerUI.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SoundManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+  Nova.cpp
+  Pad.cpp
+  Player.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SoundManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+  PointUI.cpp
+  Rect.cpp
+  ResultScene.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'ResultScene.cpp' をコンパイルしています)
+  
+  SceneBase.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TimeUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectChara.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\ControllerUI.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneBase.cpp' をコンパイルしています)
+  
+  コードを生成中...
+  コンパイル中...
+  SceneMain.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneMain.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneMain.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TimeUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneMain.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneMain.cpp' をコンパイルしています)
+  
+  SceneManager.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TimeUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectChara.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\ControllerUI.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SceneManager.cpp' をコンパイルしています)
+  
+  SelectChara.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectChara.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectChara.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SelectChara.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SelectChara.cpp' をコンパイルしています)
+  
+  SelectScene.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectScene.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SelectScene.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SelectScene.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SelectChara.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SelectScene.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\ControllerUI.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SelectScene.cpp' をコンパイルしています)
+  
+  Shartel.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Shartel.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.cpp(10,31): warning C4244: '初期化中': 'float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.cpp(11,31): warning C4244: '初期化中': 'float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\Shartel.cpp(12,31): warning C4244: '初期化中': 'float' から 'const int' への変換です。データが失われる可能性があります。
+  SoundManager.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SoundManager.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\SoundManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'SoundManager.cpp' をコンパイルしています)
+  
+  TimeUIManager.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TimeUIManager.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TimeUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'TimeUIManager.cpp' をコンパイルしています)
+  
+  TitleScene.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TitleScene.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'TitleScene.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'TitleScene.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TitleScene.cpp(81,12): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TitleScene.cpp(82,12): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  UIManager.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'UIManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\TimeUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'UIManager.cpp' をコンパイルしています)
+  
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\HPUIManager.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'UIManager.cpp' をコンパイルしています)
+  
+  WinChara.cpp
+C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\GameData.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'WinChara.cpp' をコンパイルしています)
+  
+  コードを生成中...
+  FightingGameTest.vcxproj -> C:\Users\FukudaGenki\Documents\GitHub\2026_summer\FightingGameTest\x64\Debug\FightingGameTest.exe

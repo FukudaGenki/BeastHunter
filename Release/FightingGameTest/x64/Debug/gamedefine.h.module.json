@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "FightingGameTest\\x64\\Debug\\GameDefine.h.obj",
+            "outputs": [
+                "C:\\Users\\FukudaGenki\\Documents\\GitHub\\2026_summer\\FightingGameTest\\FightingGameTest\\x64\\Debug\\vc145.pdb",
+                "FightingGameTest\\x64\\Debug\\",
+                "C:\\Users\\FukudaGenki\\Documents\\GitHub\\2026_summer\\FightingGameTest\\FightingGameTest\\x64\\Debug\\GameDefine.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "GameDefine.h",
+                    "source-path": "c:\\users\\fukudagenki\\documents\\github\\2026_summer\\fightinggametest\\gamedefine.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

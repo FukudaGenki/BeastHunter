@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "FightingGameTest\\x64\\Release\\GameDefine.obj",
+            "outputs": [
+                "FightingGameTest\\x64\\Release\\GameDefine.h_FDE2A1E2F80B529B.ifc.dt.module.json",
+                "FightingGameTest\\x64\\Release\\GameDefine.h_FDE2A1E2F80B529B.ifc.dt.d.json",
+                "FightingGameTest\\x64\\Release\\GameDefine.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\FukudaGenki\\Documents\\GitHub\\BeastHunter\\FightingGameTest\\GameDefine.h",
+                    "source-path": "c:\\users\\fukudagenki\\documents\\github\\beasthunter\\fightinggametest\\gamedefine.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
