@@ -5,14 +5,14 @@
         {
             "primary-output": "FightingGameTest\\x64\\Release\\GameDefine.h.obj",
             "outputs": [
-                "C:\\Users\\FukudaGenki\\Documents\\GitHub\\BeastHunter\\FightingGameTest\\FightingGameTest\\x64\\Release\\vc145.pdb",
+                "C:\\Users\\FukudaGenki\\Documents\\GitHub\\2026_summer\\FightingGameTest\\FightingGameTest\\x64\\Release\\vc145.pdb",
                 "FightingGameTest\\x64\\Release\\",
-                "C:\\Users\\FukudaGenki\\Documents\\GitHub\\BeastHunter\\FightingGameTest\\FightingGameTest\\x64\\Release\\GameDefine.h.ifc"
+                "C:\\Users\\FukudaGenki\\Documents\\GitHub\\2026_summer\\FightingGameTest\\FightingGameTest\\x64\\Release\\GameDefine.h.ifc"
             ],
             "provides": [
                 {
                     "logical-name": "GameDefine.h",
-                    "source-path": "c:\\users\\fukudagenki\\documents\\github\\beasthunter\\fightinggametest\\gamedefine.h",
+                    "source-path": "c:\\users\\fukudagenki\\documents\\github\\2026_summer\\fightinggametest\\gamedefine.h",
                     "lookup-method": "absolute"
                 }
             ],
